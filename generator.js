@@ -35,7 +35,7 @@ window.onload = function() {
 
 
 function generate(){
-	opentype.load("NotoSans-Bold.ttf", function(err, f) {
+	opentype.load("NotoSansMalayalam-Bold.ttf", function(err, f) {
 		font = f;
 		text = simText;
 
